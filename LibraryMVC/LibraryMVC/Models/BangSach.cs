@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.ComponentModel.DataAnnotations;
 
 namespace LibraryMVC.Models
 {
@@ -13,5 +14,6 @@ namespace LibraryMVC.Models
         public string TomTat { get; set; }
         public int MaTG { get; set; }
         public int MaNXB { get; set; }
+        public virtual ICollection<BangSach> BangSachs { get; set; }
     }
 }
