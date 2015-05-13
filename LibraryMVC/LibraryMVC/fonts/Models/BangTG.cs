@@ -12,5 +12,6 @@ namespace LibraryMVC.Models
         public string DiaChi { get; set; }
         public int SDT { get; set; }
         public string Email { get; set; }
+        public virtual ICollection<BangTG> BangTGs { get; set; }
     }
 }

@@ -24,3 +24,29 @@ C:\Users\Trung Kiên\Desktop\GC0905\LibraryMVC\LibraryMVC\bin\Newtonsoft.Json.xm
 C:\Users\Trung Kiên\Desktop\GC0905\LibraryMVC\LibraryMVC\obj\Debug\LibraryMVC.csprojResolveAssemblyReference.cache
 C:\Users\Trung Kiên\Desktop\GC0905\LibraryMVC\LibraryMVC\obj\Debug\LibraryMVC.dll
 C:\Users\Trung Kiên\Desktop\GC0905\LibraryMVC\LibraryMVC\obj\Debug\LibraryMVC.pdb
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\LibraryMVC.dll.config
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\LibraryMVC.dll
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\LibraryMVC.pdb
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\Antlr3.Runtime.dll
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\Newtonsoft.Json.dll
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\System.Web.Helpers.dll
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\System.Web.Mvc.dll
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\System.Web.Optimization.dll
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\System.Web.Razor.dll
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\System.Web.WebPages.dll
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\WebGrease.dll
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\System.Web.Helpers.xml
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\System.Web.Mvc.xml
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\System.Web.Optimization.xml
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\System.Web.Razor.xml
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\System.Web.WebPages.xml
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\Antlr3.Runtime.pdb
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\bin\Newtonsoft.Json.xml
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\obj\Debug\LibraryMVC.csprojResolveAssemblyReference.cache
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\obj\Debug\LibraryMVC.dll
+C:\Users\vuong\Documents\ASMG2\ASS\LibraryMVC\LibraryMVC\obj\Debug\LibraryMVC.pdb
